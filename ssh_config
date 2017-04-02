@@ -1,0 +1,6 @@
+# CAEN
+Host huangla
+  HostName login.engin.umich.edu
+  User huangla
+  Compression yes
+
